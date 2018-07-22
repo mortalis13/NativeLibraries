@@ -1,0 +1,78 @@
+dsllib-1.1.2
+
+---TreeDump---
+[m1]
+  [p]
+    [trn]
+      'v'
+  [trn]
+    ' + o + '
+    [p]
+      'adv'
+    ', '
+    [p]
+      'v'
+    ' + '
+    [p]
+      'adv'
+    ' + o '
+    [i]
+      '<<word>>'
+    ' tachar; '
+    [i]
+      '<<view>>'
+    ' tapar; '
+    [i]
+      '<<memory>>'
+    ' borrar'
+---TreeEnd---
+
+
+-----
+<div class='article'>
+<div class='dict-name'>__</div>
+<p class='line p1'><span class='label'>v</span> + o + <span class='label'>adv</span>, <span class='label'>v</span> + <span class='label'>adv</span> + o <i><<word>></i> tachar; <i><<view>></i> tapar; <i><<memory>></i> borrar</p>
+</div>
+
+-----
+
+
+dsllib-1.1.2
+
+---TreeDump---
+[m1]
+  [p]
+    [trn]
+      'v'
+  [trn]
+    ' + o + '
+    [p]
+      'adv'
+    ', '
+    [p]
+      'v'
+    ' + '
+    [p]
+      'adv'
+    ' + o '
+    [i]
+      '<<word>>'
+    ' tachar; '
+    [i]
+      '<<view>>'
+    ' tapar; '
+    [i]
+      '<<memory>>'
+    ' borrar'
+---TreeEnd---
+
+
+-----
+<div class='article'>
+<div class='dict-name'>__</div>
+<p class='line p1'><span class='label'>v</span> + o + <span class='label'>adv</span>, <span class='label'>v</span> + <span class='label'>adv</span> + o <i><&lt;word&gt;&gt;</i> tachar; <i><&lt;view&gt;&gt;</i> tapar; <i><&lt;memory&gt;&gt;</i> borrar</p>
+</div>
+
+-----
+
+

@@ -1,0 +1,6 @@
+# UniversalEsRu
+
+- acacia, Acacia => gets 2 articles skipping word case
+- add last word to index if the file doesnt have newline at the end
+- check table tags in wordreference_es_es
+- trim word before search, or save trimmed headwords to index

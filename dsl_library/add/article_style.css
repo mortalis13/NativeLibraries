@@ -1,0 +1,146 @@
+
+.container {
+  width: 40%;
+  margin: 10px;
+}
+
+.toolbar {
+  height: 34px;
+  background: #eee;
+  border: 1px solid #aaa;
+  border-bottom: 0;
+}
+
+.card {
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-top: 0;
+}
+
+/*--------------*/
+
+
+body {
+  margin: 0;
+  padding: 0 8px;
+  font-family: 'Arial';
+  /*font-family: 'Tahoma';*/
+  /*font-family: 'Arial Trebuchet MS';*/
+}
+
+a,
+a:hover,
+a:active,
+a:focus,
+a:visited {
+  color: #47815a;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+hr {
+  border-color: green;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+
+.heading {
+  padding: 8px 3px;
+  font-size: 110%;
+  font-weight: 700;
+}
+
+.article {
+  margin: 0 0 20px;
+  padding: 10px 3px 0;
+  border-top: 1px solid #bbb;
+}
+
+.dict-name {
+  /*text-align: right;*/
+  /*color: #8e6bc5;*/
+  margin: 0;
+  padding: 0 0px 10px;
+  color: #cd7155;
+  font-size: 120%;
+  font-weight: 700;
+}
+
+
+.label {
+  margin: 0;
+  color: #536e95;
+  font-weight: 700;
+  font-style: italic;
+}
+.color-default {
+  color: #536e95;
+}
+
+.example {
+  color: #6a6a6a;
+  font-style: normal;
+}
+.example:before {
+  content: '- ';
+}
+
+.line {
+  margin: 0;
+  /*display: inline-block;*/
+}
+
+.pinit {
+  margin-top: 10px;
+}
+
+.p0 {
+  margin-top: 10px;
+}
+.p0-first {
+  margin-top: 0px;
+}
+
+.p1 {
+  padding-left: 8px;
+}
+ 
+.p2 {
+  padding-left: 16px;
+}
+ 
+.p3 {
+  padding-left: 24px;
+}
+ 
+.p4 {
+  padding-left: 32px;
+}
+ 
+.p5 {
+  padding-left: 40px;
+}
+ 
+.p6 {
+  padding-left: 48px;
+}
+ 
+.p7 {
+  padding-left: 56px;
+}
+ 
+.p8 {
+  padding-left: 64px;
+}
+ 
+.p9 {
+  padding-left: 72px;
+}
+
+.line-unshift {
+  margin-left: -8px;
+}

@@ -1,0 +1,20 @@
+[b][/b]          –    boldfaced font
+[i][/i]          –    italics
+[u][/u]          –    underlined font
+[c][/c]          –    coloured (highlighted) font
+[*][/*]          –    the text between these tags is only displayed in full translation mode
+[mN][/m]         –    sets the left paragraph margin. (0-9)
+[trn][/trn]      –    translations zone.
+[ex][/ex]        –    examples zone.
+[com][/com]      –    comments zone.
+[s][/s]          –    multimedia zone (used to add pictures or sound files into a dictionary entries ).
+[url][/url]      –    link to a Web page.
+[!trs][/!trs]    –    the text between these tags will not be indexed
+[p][/p]          –    labels (clicking a label displays its full text)
+['][/']          –    a stressed vowel in a word.
+[lang][/lang]    –    the language of the word or phrase
+[ref][/ref],     –    hyperlink to a card in the same dictionary
+<<>>
+[sub][/sub]      –    subscript
+[sup][/sup]      -    superscript
+[t][/t]          -    transcription

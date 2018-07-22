@@ -1,0 +1,15 @@
+headwords
+cards
+entries
+
+() - optional part of headword
+{} - unsorted part of headword
+{{}} - comments
+
+-- subentry:
+@ subheadword
+content
+@
+
+~ - in the card body is replaced with the main headword (to avoid repeating headword)
+^~ - changes the first letter case of the replaced headword in the card body
